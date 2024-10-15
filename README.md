@@ -1,0 +1,2 @@
+# latihan-sederhana
+Tailwinds css
